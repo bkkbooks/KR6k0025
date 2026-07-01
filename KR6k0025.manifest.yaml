@@ -1,0 +1,89 @@
+canonical_identifier: bkk:krp/KR6k0025/v1
+canonical_location: https://kanripo.org/bkk/KR6k0025/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 根本說一切有部毘奈耶出家事
+  identifiers:
+    alt_id:
+    - T23n1444
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T23/T23n1444.xml
+    old_id: T23n1444
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0025_000.yaml, hash: 'sha256:9df862011979e0e48f97312ff63a0228f46b4651c9ce699f5028c95442c39a1b'}
+  - {seq: 1, filename: KR6k0025_001.yaml, hash: 'sha256:b90d927ed6c66c735f59dc6e4370760191dbeeb92917300626750e45d65a0021'}
+  - {seq: 2, filename: KR6k0025_002.yaml, hash: 'sha256:1a3294dc04b74dfc6dfa7659242411ca69cb20c55dbb49a1c01ce62c2abf2925'}
+  - {seq: 3, filename: KR6k0025_003.yaml, hash: 'sha256:c10a0468a81c76e43b17a9dd156e661cdac2f7aaa9d3433ef7ebaea10daea7df'}
+  - {seq: 4, filename: KR6k0025_004.yaml, hash: 'sha256:2dd7f50363da99cde9f6b74abd7dbae637d1ca4e25fc18d768497385743ca974'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0025_001.markers.yaml, hash: 'sha256:94bdac7260987b72a780b62075c5d771fcbd59cd942866e83b1c33f50ffba414'}
+  - {seq: 2, role: markers, filename: assets/KR6k0025_002.markers.yaml, hash: 'sha256:24398e422052dce360bd52192a646fbda0307f16922b3dbefaeaa8f4e864b396'}
+  - {seq: 3, role: markers, filename: assets/KR6k0025_003.markers.yaml, hash: 'sha256:1c056b850b24fadb3e5401a5137d170cf4958a54ef304d29574a951b48571e7c'}
+  - {seq: 4, role: markers, filename: assets/KR6k0025_004.markers.yaml, hash: 'sha256:11fe3cc884c8f98524cca95af9f7eb228614715061915c2e4c819fa4fe7ff4fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0025_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7780
+  label: '根本說一切有部毘奈耶出家事
+
+    卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0025_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6764
+  label: '根本說一切有部毘奈耶出家事
+
+    卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0025_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6203
+  label: '根本說一切有部毘奈耶出家事
+
+    卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0025_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8268
+  label: '根本說一切有部毘奈耶出家事
+
+    卷第四'
+  type: juan
+  level: 1
+hash: sha256:82853fdb34d6dc5e67b173b3a809bce388e54181cea6a840777cadf8b0de505e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

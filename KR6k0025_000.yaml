@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0025/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毘奈耶出家事
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T23/T23n1444.xml
+    old_id: T23n1444
+hash: sha256:9df862011979e0e48f97312ff63a0228f46b4651c9ce699f5028c95442c39a1b
